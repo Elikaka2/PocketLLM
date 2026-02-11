@@ -52,8 +52,8 @@ The main goal of the project is to make working with an AI model **instant and c
 > **PocketLLM — AI at your fingertips. Fast. Simple. Convenient.**
 
 # How install
-1 . Download the latest release from the [GitHub repository](https://github.com/Elikaka2/PocketLLM)
-2 . Extract the downloaded file to a desired location on your computer.
-3 . Run the `PocketLLM.exe` file to start the application.
-4 . Configure your API key and preferences in the settings menu.
-5 . (Optional) Add to auto-start for quick access on system startup.
+1. Download the latest release from the [GitHub repository](https://github.com/Elikaka2/PocketLLM)
+2. Extract the downloaded file to a desired location on your computer.
+3. Run the `PocketLLM.exe` file to start the application.
+4. Configure your API key and preferences in the settings menu.
+5. (Optional) Add to auto-start for quick access on system startup.
