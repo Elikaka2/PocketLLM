@@ -1,0 +1,19 @@
+# Visual Studio
+.vs/
+*.user
+*.suo
+*.resharper
+*.DotSettings
+
+# Build Folders
+bin/
+obj/
+
+# Logs and databases
+*.log
+*.db
+
+# Others
+*.pdb
+*.exe
+*.dll
