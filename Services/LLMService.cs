@@ -24,7 +24,7 @@ namespace PocketLLM.Services
 
             if (string.IsNullOrEmpty(config.ApiKey) || string.IsNullOrEmpty(config.Model) || string.IsNullOrEmpty(config.LLMType))
             {
-                throw new InvalidOperationException("API Key, Model, and LLM Type must be set in the configuration.");
+                return "API Key, Model, and LLM Type must be set in the configuration.";
             }
 
             try
@@ -62,7 +62,7 @@ namespace PocketLLM.Services
             }
             catch (Exception ex)
             {
-                throw new ApplicationException("Error sending message to LLM", ex);
+                return "Error sending message to LLM";
             }
         }
     }
